@@ -1,0 +1,61 @@
+{
+  "policy": "Exact replay uses these frozen 30-s traces; labels Low/High are source-scenario labels, not a controlled density sweep.",
+  "traces": {
+    "highway_high": {
+      "file": "mobility/frozen/highway_high.csv",
+      "sha256": "eacd4630365a1688bacd5c3e4cdcad721dc42b757c627a1dca9a325fe2352b85",
+      "duration_s": 30.0,
+      "start_s": 0.0,
+      "end_s": 30.0,
+      "rows": 16260,
+      "unique_vehicles": 580,
+      "active_mean": 524.516129032258,
+      "active_min": 485,
+      "active_max": 553,
+      "has_heading": true,
+      "has_edge_id": false
+    },
+    "highway_low": {
+      "file": "mobility/frozen/highway_low.csv",
+      "sha256": "8901c2f7c7d5f8bf1843fb143ef30369a4fd7e16677296ae67663f51afc4ad9a",
+      "duration_s": 30.0,
+      "start_s": 0.0,
+      "end_s": 30.0,
+      "rows": 7549,
+      "unique_vehicles": 280,
+      "active_mean": 243.51612903225808,
+      "active_min": 241,
+      "active_max": 248,
+      "has_heading": true,
+      "has_edge_id": false
+    },
+    "urban_high": {
+      "file": "mobility/frozen/urban_high.csv",
+      "sha256": "d7837fb4a451044518240cf3f112cc4ed31fe3f29a89f9aba4881fc305e47c07",
+      "duration_s": 30.0,
+      "start_s": 0.0,
+      "end_s": 30.0,
+      "rows": 30560,
+      "unique_vehicles": 1060,
+      "active_mean": 985.8064516129032,
+      "active_min": 980,
+      "active_max": 990,
+      "has_heading": true,
+      "has_edge_id": false
+    },
+    "urban_low": {
+      "file": "mobility/frozen/urban_low.csv",
+      "sha256": "5aed396f00287635e8cead28ac51ecb08396501ea190e5441a6fa8bf025d5e3b",
+      "duration_s": 30.0,
+      "start_s": 0.0,
+      "end_s": 30.0,
+      "rows": 11965,
+      "unique_vehicles": 440,
+      "active_mean": 385.96774193548384,
+      "active_min": 382,
+      "active_max": 390,
+      "has_heading": true,
+      "has_edge_id": false
+    }
+  }
+}

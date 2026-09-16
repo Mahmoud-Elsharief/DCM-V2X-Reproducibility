@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper: Decentralized Collision Mitigation for Reliable Broadcast Communication in Safety-Critical Vehicular Networks."
+title: "Reproducibility implementation for: Decentralized Collision Mitigation for Reliable Broadcast Communication in Safety-Critical Vehicular Networks"
+type: software
+authors:
+  - family-names: "Elsharief"
+    given-names: "Mahmoud"
+  - family-names: "Jo"
+    given-names: "Han-Shin"
+version: "1.0.0-rc2"
+date-released: "2026-09-16"

@@ -1,0 +1,30 @@
+{
+  "highway_low": {
+    "scenario": "highway",
+    "density_label": "low",
+    "trace": "mobility/frozen/highway_low.csv",
+    "sumo_config": "sumo/highway_low/osm.sumocfg",
+    "original_sumo_window_s": [1940, 1970]
+  },
+  "highway_high": {
+    "scenario": "highway",
+    "density_label": "high",
+    "trace": "mobility/frozen/highway_high.csv",
+    "sumo_config": "sumo/highway_high/osm.sumocfg",
+    "original_sumo_window_s": [469, 499]
+  },
+  "urban_low": {
+    "scenario": "urban",
+    "density_label": "low",
+    "trace": "mobility/frozen/urban_low.csv",
+    "sumo_config": "sumo/urban_low/osm.sumocfg",
+    "original_sumo_window_s": [1986, 2016]
+  },
+  "urban_high": {
+    "scenario": "urban",
+    "density_label": "high",
+    "trace": "mobility/frozen/urban_high.csv",
+    "sumo_config": "sumo/urban_high/osm.sumocfg",
+    "original_sumo_window_s": [1597, 1627]
+  }
+}
