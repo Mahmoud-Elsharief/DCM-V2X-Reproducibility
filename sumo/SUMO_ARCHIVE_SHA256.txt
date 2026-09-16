@@ -1,0 +1,5 @@
+SUMO.zip
+SHA256: FFDF39901B079A9492EBC2BECD750F3DCAA51AE5627A847487B3033FC5A02F8F
+
+Associated paper:
+Decentralized Collision Mitigation for Reliable Broadcast Communication in Safety-Critical Vehicular Networks
