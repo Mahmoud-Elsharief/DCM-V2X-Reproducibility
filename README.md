@@ -121,17 +121,6 @@ Included:
 - easy final figure generation;
 - unit tests and a short installation-only smoke test.
 
-Not included:
-
-- controlled analytical-validation simulations;
-- threshold sweeps;
-- ARM6G/SORA-NoCR development experiments;
-- historical experimental branches;
-- old result CSVs, figures, ZIPs or internal diagnostics;
-- a one-click `RUN_ALL` or `reproduce_paper.py` script.
-
-`results/` and `figures/` are intentionally empty.
-
 ## 1. Python environment
 
 Recommended:
